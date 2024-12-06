@@ -1,5 +1,5 @@
-import Image from "next/image";
+import Test from "./components/text";
 
 export default function Home() {
-  return <div>Hello world</div>;
+  return <Test />;
 }
